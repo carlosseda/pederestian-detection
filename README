@@ -1,0 +1,11 @@
+Instalar ffmepg
+
+https://ffmpeg.org/download.html
+
+Instalar tensor-flow
+
+I have move this tensorflow.dll from @tensorflow\tfjs-node\deps\lib to s@tensorflow\tfjs-node\lib\napi-v8
+
+Instalar 
+
+pip install opencv-python ultralytics pandas numpy tqdm tk ffmpeg-python
